@@ -388,7 +388,7 @@ Sort can help reorder the list!!
 * If two or more of the above prefixes are being used, sort will prioritise sorting by name, then status, followed by rating, and finally tags.
 * Use `so/` if you want to reorder the priority and state the `SEQUENCE`
 * List the `SEQUENCE` by listing out the full name of the prefix used in the order you want.
-* For example: you want to sort by name, then status, followed by rating, and finally tags, `SEQUENCE` will be "name status rating tag"
+* For example: you want to sort by rating, then status, followed by name, and finally tags, `SEQUENCE` will be "RatingStatusNameTag"
 * `SEQUENCE` input is case-insensitive.
 * If you are confused, don't worry! Just do not use any prefix, we will help you sort it by name in ascending order!
 </div>
